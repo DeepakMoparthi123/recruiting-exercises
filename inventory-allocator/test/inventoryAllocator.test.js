@@ -1,4 +1,4 @@
-const InventoryAllocator = require('./inventoryAllocator.js')
+const InventoryAllocator = require('../src/inventoryAllocator.js')
 
 test('Exact Match', () => {
     var items = { "apple": 1 }
