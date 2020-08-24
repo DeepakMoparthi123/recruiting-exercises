@@ -1,3 +1,6 @@
+### Solution
+
+Run `npm test` to run test suite.
 
 
 ### Problem
